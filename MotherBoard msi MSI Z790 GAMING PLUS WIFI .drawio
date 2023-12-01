@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T12:21:58.380Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="69pLaKBQ1LLnVjS_ZKZO" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T12:22:19.746Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="Kpv2ZRK_xnDxAnRIuC5Q" version="22.1.5" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1191" dy="1851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,8 +60,8 @@
         <mxCell id="IMbqO5Cv_9zsQHXl01Jr-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.54;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#76608a;strokeColor=#432D57;" edge="1" parent="1" source="IMbqO5Cv_9zsQHXl01Jr-17" target="IMbqO5Cv_9zsQHXl01Jr-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-25" value="&lt;font color=&quot;#c061cb&quot;&gt;Wifi Antena&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-755" width="80" height="30" as="geometry" />
+        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-25" value="&lt;font color=&quot;#c061cb&quot;&gt;Wifi Antena&lt;br&gt;x2&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-760" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
