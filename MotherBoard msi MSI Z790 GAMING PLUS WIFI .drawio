@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T12:16:12.349Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="bBfPjdofFP0f_O3X5DEl" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T12:16:57.963Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="BqjcjVSU11Glgda2PPFq" version="22.1.5" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1191" dy="1851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-7" value="&lt;h1 style=&quot;font-size: 14px;&quot; class=&quot;title-1&quot;&gt;Intel Core i7-13700KF&lt;/h1&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IMbqO5Cv_9zsQHXl01Jr-6">
+        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-7" value="&lt;h1 style=&quot;font-size: 14px;&quot; class=&quot;title-1&quot;&gt;&lt;font color=&quot;#ff8000&quot;&gt;Intel Core i7-13700KF&lt;/font&gt;&lt;/h1&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IMbqO5Cv_9zsQHXl01Jr-6">
           <mxGeometry x="1" y="4" relative="1" as="geometry">
             <mxPoint x="-50" y="1" as="offset" />
           </mxGeometry>
@@ -24,7 +24,7 @@
         <mxCell id="IMbqO5Cv_9zsQHXl01Jr-3" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=image;editableCssRules=.*;labelBackgroundColor=#ffffff;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnY9Imh0dHBzOi8vdmVjdGEuaW8vbmFubyIgd2lkdGg9IjE3IiBoZWlnaHQ9IjE1IiB2aWV3Qm94PSIwIDAgMTcgMTUiPiYjeGE7CTxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+LnN0MCB7IGZpbGw6IHJnYigyNDQsIDEwMSwgNDkpOyB9IDwvc3R5bGU+JiN4YTsJPHBhdGggY2xhc3M9InN0MCIgZD0iTTIgN2gxNEw5IDB6bTcuNSAySDZ2NmgxLjV2LTJoMmExLjU0IDEuNTQgMCAwIDAgMS41LTEuNXYtMUExLjU0IDEuNTQgMCAwIDAgOS41IDl6bTAgMi41aC0ydi0xaDJ6bS00LjUtMVY5SDEuNUExLjU0IDEuNTQgMCAwIDAgMCAxMC41djNBMS41NCAxLjU0IDAgMCAwIDEuNSAxNUg1di0xLjVIMS41di0zek0xNS41IDl2NC41aC0yVjlIMTJ2NC41YTEuNTQgMS41NCAwIDAgMCAxLjUgMS41aDJhMS41NCAxLjU0IDAgMCAwIDEuNS0xLjVWOXoiLz4mI3hhOzwvc3ZnPg==;" vertex="1" parent="1">
           <mxGeometry x="380.9" y="-880" width="65.45" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-8" value="&lt;b&gt;DDR5 32 Giga RAM X2 = 64 G&lt;br&gt;&lt;/b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; dans slot 4x DDR5, Maximum Memory Capacity 192GB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-8" value="&lt;font color=&quot;#1c71d8&quot;&gt;&lt;b&gt;DDR5 32 Giga RAM X2 = 64 G&lt;br&gt;&lt;/b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; dans slot 4x DDR5, Maximum Memory Capacity 192GB&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="296" y="-1127" width="390" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IMbqO5Cv_9zsQHXl01Jr-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IMbqO5Cv_9zsQHXl01Jr-9" target="IMbqO5Cv_9zsQHXl01Jr-10">
@@ -39,7 +39,7 @@
         <mxCell id="IMbqO5Cv_9zsQHXl01Jr-10" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.ram;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="414.00000000000006" y="-812.95" width="217.5" height="10.2" as="geometry" />
         </mxCell>
-        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-13" value="&lt;h1 style=&quot;font-size: 14px;&quot; class=&quot;title-1&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;MSI GeForce RTX 3070&amp;nbsp;&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 14px;&quot; class=&quot;title-1&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;SUPRIM X 8G LHR&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-13" value="&lt;h1 style=&quot;font-size: 14px;&quot; class=&quot;title-1&quot;&gt;&lt;font color=&quot;#009900&quot; style=&quot;font-size: 10px;&quot;&gt;MSI GeForce RTX 3070&amp;nbsp;&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 14px;&quot; class=&quot;title-1&quot;&gt;&lt;font color=&quot;#009900&quot; style=&quot;font-size: 10px;&quot;&gt;SUPRIM X 8G LHR&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="9" y="-705" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IMbqO5Cv_9zsQHXl01Jr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IMbqO5Cv_9zsQHXl01Jr-14" target="IMbqO5Cv_9zsQHXl01Jr-13">
