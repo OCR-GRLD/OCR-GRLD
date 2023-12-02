@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-02T21:15:55.492Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="L8DMRS42ziMDyOIleqQD" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-02T21:24:55.377Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="iEW3bu8eSNVVQ1iP7qoL" version="22.1.5" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2028" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -162,17 +162,41 @@
         <mxCell id="IMbqO5Cv_9zsQHXl01Jr-79" value="&lt;b&gt;&lt;font color=&quot;#9999ff&quot;&gt;&lt;br&gt;                                        LDLC Silent Duo Pack ES&lt;br&gt;+ Souris&lt;br&gt;&lt;/font&gt;&lt;/b&gt;                                    " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-10" y="-868.36" width="170" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IMbqO5Cv_9zsQHXl01Jr-84" target="IMbqO5Cv_9zsQHXl01Jr-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IMbqO5Cv_9zsQHXl01Jr-84" target="IMbqO5Cv_9zsQHXl01Jr-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IMbqO5Cv_9zsQHXl01Jr-84" value="" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid2misc.fan;fanType=common" vertex="1" parent="1">
           <mxGeometry x="340" y="-1140" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-85" value="FAN Proc&amp;nbsp; x3 &lt;b&gt;be quiet! Light Wings 140 mm&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="216" y="-1082" width="270" height="30" as="geometry" />
+        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-85" value="VENTIRAD CPU &lt;br&gt;&lt;div class=&quot;name&quot;&gt;be quiet! Dark Rock Pro 5&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="271" y="-1087" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IMbqO5Cv_9zsQHXl01Jr-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.814;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#CC0066;" edge="1" parent="1" source="IMbqO5Cv_9zsQHXl01Jr-86" target="IMbqO5Cv_9zsQHXl01Jr-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IMbqO5Cv_9zsQHXl01Jr-86" value="" style="image;html=1;image=img/lib/clip_art/computers/Harddrive_128x128.png" vertex="1" parent="1">
           <mxGeometry x="730" y="-600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.833;entryY=0.188;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#B20000;fillColor=#e51400;" edge="1" parent="1" source="IMbqO5Cv_9zsQHXl01Jr-91" target="IMbqO5Cv_9zsQHXl01Jr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.833;entryY=0.234;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="IMbqO5Cv_9zsQHXl01Jr-91" target="IMbqO5Cv_9zsQHXl01Jr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-91" value="" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid2misc.fan;fanType=common;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="760" y="-970" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.777;entryY=0.148;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;" edge="1" parent="1" source="IMbqO5Cv_9zsQHXl01Jr-91" target="IMbqO5Cv_9zsQHXl01Jr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-95" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 11px;&quot;&gt;x3 be quiet! Light Wings &lt;br&gt;140 mm&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="678.24" y="-1000" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-98" value="&lt;br&gt;                                        Windows 11 sur Western Digital WD Purple &lt;br&gt;Surveillance Hard Drive 1 To &lt;br&gt;SATA 6Gb/s&lt;br&gt;                                    " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="-525" width="250" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
