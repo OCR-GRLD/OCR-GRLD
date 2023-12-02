@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-02T21:33:42.227Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="zdvgQC4XQ7kPtH87hILf" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-02T23:20:42.765Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="p-oI_WrlLjZsRGXXFu51" version="22.1.5" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2855" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -122,10 +122,10 @@
           <mxGeometry x="-777" y="-679.9999999999998" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IMbqO5Cv_9zsQHXl01Jr-60" value="Barebone" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-808" y="-1160" width="141" height="150" as="geometry" />
+          <mxGeometry x="-808" y="-1160" width="146" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-61" value="&lt;h3 class=&quot;title-3&quot; style=&quot;font-size: 11px;&quot;&gt;&lt;a href=&quot;https://www.ldlc.pro/fiche/PB00267879.html&quot; style=&quot;font-size: 11px;&quot;&gt;Antec P101 Silent&lt;/a&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;fontSize=11;" vertex="1" parent="IMbqO5Cv_9zsQHXl01Jr-60">
-          <mxGeometry x="21" y="50" width="120" height="50" as="geometry" />
+        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-61" value="&lt;h3 style=&quot;font-size: 9px;&quot; class=&quot;title-3&quot;&gt;&lt;br/&gt;                                        Seasonic PRIME PX-1600&lt;br/&gt;                                    &lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;fontSize=11;" vertex="1" parent="IMbqO5Cv_9zsQHXl01Jr-60">
+          <mxGeometry x="16" y="50" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IMbqO5Cv_9zsQHXl01Jr-63" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.monitor;" vertex="1" parent="1">
           <mxGeometry x="-787" y="-989" width="80" height="65" as="geometry" />
