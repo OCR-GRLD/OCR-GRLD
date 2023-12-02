@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-02T21:24:55.377Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="iEW3bu8eSNVVQ1iP7qoL" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-02T21:26:25.700Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="YAJASm1MagiTjFa2MRnS" version="22.1.5" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2028" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -177,6 +177,9 @@
         <mxCell id="IMbqO5Cv_9zsQHXl01Jr-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.814;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#CC0066;" edge="1" parent="1" source="IMbqO5Cv_9zsQHXl01Jr-86" target="IMbqO5Cv_9zsQHXl01Jr-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IMbqO5Cv_9zsQHXl01Jr-86" target="IMbqO5Cv_9zsQHXl01Jr-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IMbqO5Cv_9zsQHXl01Jr-86" value="" style="image;html=1;image=img/lib/clip_art/computers/Harddrive_128x128.png" vertex="1" parent="1">
           <mxGeometry x="730" y="-600" width="80" height="80" as="geometry" />
         </mxCell>
@@ -195,8 +198,8 @@
         <mxCell id="IMbqO5Cv_9zsQHXl01Jr-95" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 11px;&quot;&gt;x3 be quiet! Light Wings &lt;br&gt;140 mm&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="678.24" y="-1000" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-98" value="&lt;br&gt;                                        Windows 11 sur Western Digital WD Purple &lt;br&gt;Surveillance Hard Drive 1 To &lt;br&gt;SATA 6Gb/s&lt;br&gt;                                    " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="-525" width="250" height="70" as="geometry" />
+        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-98" value="&lt;br&gt;                                        Windows 11 sur &lt;br&gt;Western Digital WD Purple &lt;br&gt;Surveillance Hard Drive 1 To &lt;br&gt;SATA 6Gb/s&lt;br&gt;                                    " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="641.5" y="-420" width="180" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
