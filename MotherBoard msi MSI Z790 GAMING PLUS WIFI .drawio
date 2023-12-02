@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T23:52:05.461Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="t0xigcAWntmAKieQWvzc" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-02T00:10:04.062Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="2JRaVW-T6EWGfD1NQ2eH" version="22.1.5" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1191" dy="1872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2018" dy="1872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,13 +50,20 @@
           <mxGeometry x="220" y="-760" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IMbqO5Cv_9zsQHXl01Jr-18" value="" style="shape=mxgraph.cisco.wireless.antenna;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="9" y="-790" width="50" height="49" as="geometry" />
+          <mxGeometry x="9" y="-861.95" width="50" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.54;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#76608a;strokeColor=#432D57;" edge="1" parent="1" source="IMbqO5Cv_9zsQHXl01Jr-17" target="IMbqO5Cv_9zsQHXl01Jr-18">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.54;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#76608a;strokeColor=#432D57;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="-740" as="sourcePoint" />
+            <mxPoint x="76" y="-812.95" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="-739" />
+              <mxPoint x="77" y="-739" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="IMbqO5Cv_9zsQHXl01Jr-25" value="&lt;font color=&quot;#c061cb&quot;&gt;Wifi Antena&lt;br&gt;x2&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-760" width="80" height="40" as="geometry" />
+          <mxGeometry x="39" y="-852.95" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IMbqO5Cv_9zsQHXl01Jr-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IMbqO5Cv_9zsQHXl01Jr-37" target="IMbqO5Cv_9zsQHXl01Jr-53">
           <mxGeometry relative="1" as="geometry" />
@@ -85,7 +92,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IMbqO5Cv_9zsQHXl01Jr-45" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Power.svg;" vertex="1" parent="1">
-          <mxGeometry x="610" y="-858.36" width="14" height="21.64" as="geometry" />
+          <mxGeometry x="570" y="-858.36" width="24.82" height="38.36" as="geometry" />
         </mxCell>
         <mxCell id="IMbqO5Cv_9zsQHXl01Jr-46" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Power.svg;" vertex="1" parent="1">
           <mxGeometry x="730" y="-893.91" width="23" height="35.55" as="geometry" />
@@ -101,6 +108,33 @@
         </mxCell>
         <mxCell id="IMbqO5Cv_9zsQHXl01Jr-53" value="Samsung SSD 980 &lt;br&gt;PRO M.2 &lt;br&gt;PCIe NVMe &lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;1&lt;/font&gt;&lt;/b&gt; To" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#3A5431;fillColor=#6d8764;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry y="-600" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-56" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/hdmi-128.png" vertex="1" parent="1">
+          <mxGeometry x="213" y="-934" width="54" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF66B3;" edge="1" parent="1" source="IMbqO5Cv_9zsQHXl01Jr-57" target="IMbqO5Cv_9zsQHXl01Jr-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-57" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;HDMI 27&#39;&#39;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-923.91" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-58" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;HDMI 32&#39;&#39;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-679.9999999999998" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-60" value="Barebone" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9" y="-1160" width="141" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-61" value="&lt;h3 class=&quot;title-3&quot; style=&quot;font-size: 11px;&quot;&gt;&lt;a href=&quot;https://www.ldlc.pro/fiche/PB00267879.html&quot; style=&quot;font-size: 11px;&quot;&gt;Antec P101 Silent&lt;/a&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;fontSize=11;" vertex="1" parent="IMbqO5Cv_9zsQHXl01Jr-60">
+          <mxGeometry x="21" y="50" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-63" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.monitor;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-989" width="80" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-65" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.monitor;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-720" width="30" height="19.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-66" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;MSI 34&quot; LED - MEG 342C QD-OLED &lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-6" y="-705" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
