@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-02T00:25:34.809Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="btY4GUeUja1jd7pxie7A" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-02T12:18:15.227Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="MfX-3lhFNnCaR4Jqac6y" version="22.1.5" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1191" dy="1872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2028" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -136,14 +136,12 @@
         <mxCell id="IMbqO5Cv_9zsQHXl01Jr-66" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#ff66b3&quot;&gt;&lt;b&gt;MSI 34&quot; LED - MEG 342C &lt;br&gt;QD-OLED &lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="9" y="-725" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-67" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iKeybLett;sketch=0;" vertex="1" parent="1">
-          <mxGeometry y="-890" width="100" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="IMbqO5Cv_9zsQHXl01Jr-68" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.mouse" vertex="1" parent="1">
           <mxGeometry x="110" y="-893.91" width="14.35" height="23.91" as="geometry" />
         </mxCell>
-        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.134;entryY=0.266;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FFFFFF;" edge="1" parent="1" source="IMbqO5Cv_9zsQHXl01Jr-67" target="IMbqO5Cv_9zsQHXl01Jr-2">
+        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.134;entryY=0.266;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FFFFFF;fillColor=#f0a30a;strokeColor=#BD7000;" edge="1" parent="1" target="IMbqO5Cv_9zsQHXl01Jr-2">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="-865" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="125" y="-865" />
               <mxPoint x="125" y="-860" />
@@ -151,8 +149,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.172;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FFFFFF;" edge="1" parent="1" source="IMbqO5Cv_9zsQHXl01Jr-68" target="IMbqO5Cv_9zsQHXl01Jr-2">
+        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.172;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FFFFFF;fillColor=#f0a30a;strokeColor=#BD7000;" edge="1" parent="1" source="IMbqO5Cv_9zsQHXl01Jr-68" target="IMbqO5Cv_9zsQHXl01Jr-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-77" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#FFFFFF;shape=mxgraph.mscae.enterprise.usb;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="226" y="-876" width="50" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-78" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.keyboard" vertex="1" parent="1">
+          <mxGeometry x="45" y="-879" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-79" value="&lt;b&gt;&lt;font color=&quot;#9999ff&quot;&gt;&amp;nbsp;MSI PK30 Combo Pack Clavier &lt;br&gt;+ Souris&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-9" y="-849" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
