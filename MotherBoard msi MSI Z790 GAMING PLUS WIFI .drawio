@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-02T00:10:04.062Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="2JRaVW-T6EWGfD1NQ2eH" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-02T00:25:34.809Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="btY4GUeUja1jd7pxie7A" version="22.1.5" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2018" dy="1872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1191" dy="1872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,12 +50,12 @@
           <mxGeometry x="220" y="-760" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IMbqO5Cv_9zsQHXl01Jr-18" value="" style="shape=mxgraph.cisco.wireless.antenna;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="9" y="-861.95" width="50" height="49" as="geometry" />
+          <mxGeometry x="20" y="-799.5" width="31" height="39.5" as="geometry" />
         </mxCell>
-        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.54;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#76608a;strokeColor=#432D57;" edge="1" parent="1">
+        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#76608a;strokeColor=#432D57;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="-740" as="sourcePoint" />
-            <mxPoint x="76" y="-812.95" as="targetPoint" />
+            <mxPoint x="76" y="-780" as="targetPoint" />
             <Array as="points">
               <mxPoint x="260" y="-739" />
               <mxPoint x="77" y="-739" />
@@ -63,7 +63,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IMbqO5Cv_9zsQHXl01Jr-25" value="&lt;font color=&quot;#c061cb&quot;&gt;Wifi Antena&lt;br&gt;x2&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="39" y="-852.95" width="80" height="40" as="geometry" />
+          <mxGeometry x="51" y="-812.95" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IMbqO5Cv_9zsQHXl01Jr-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IMbqO5Cv_9zsQHXl01Jr-37" target="IMbqO5Cv_9zsQHXl01Jr-53">
           <mxGeometry relative="1" as="geometry" />
@@ -131,10 +131,28 @@
           <mxGeometry x="30" y="-989" width="80" height="65" as="geometry" />
         </mxCell>
         <mxCell id="IMbqO5Cv_9zsQHXl01Jr-65" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.monitor;" vertex="1" parent="1">
-          <mxGeometry x="10" y="-720" width="30" height="19.5" as="geometry" />
+          <mxGeometry x="10" y="-739.5" width="30" height="19.5" as="geometry" />
         </mxCell>
-        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-66" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;MSI 34&quot; LED - MEG 342C QD-OLED &lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-6" y="-705" width="170" height="30" as="geometry" />
+        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-66" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#ff66b3&quot;&gt;&lt;b&gt;MSI 34&quot; LED - MEG 342C &lt;br&gt;QD-OLED &lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="9" y="-725" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-67" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iKeybLett;sketch=0;" vertex="1" parent="1">
+          <mxGeometry y="-890" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-68" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.mouse" vertex="1" parent="1">
+          <mxGeometry x="110" y="-893.91" width="14.35" height="23.91" as="geometry" />
+        </mxCell>
+        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.134;entryY=0.266;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FFFFFF;" edge="1" parent="1" source="IMbqO5Cv_9zsQHXl01Jr-67" target="IMbqO5Cv_9zsQHXl01Jr-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="125" y="-865" />
+              <mxPoint x="125" y="-860" />
+              <mxPoint x="220" y="-860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.172;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FFFFFF;" edge="1" parent="1" source="IMbqO5Cv_9zsQHXl01Jr-68" target="IMbqO5Cv_9zsQHXl01Jr-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
