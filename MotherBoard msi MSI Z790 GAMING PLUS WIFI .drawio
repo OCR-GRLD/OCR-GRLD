@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-02T23:20:42.765Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="p-oI_WrlLjZsRGXXFu51" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-03T00:02:31.750Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="4NnOUA3FHJ4ic5nvwFBb" version="22.1.5" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2855" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -162,8 +162,8 @@
         <mxCell id="IMbqO5Cv_9zsQHXl01Jr-78" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.keyboard" vertex="1" parent="1">
           <mxGeometry x="-806.5" y="-888.36" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-79" value="&lt;b&gt;&lt;font color=&quot;#9999ff&quot;&gt;&lt;br&gt;                                        LDLC Silent Duo Pack ES&lt;br&gt;+ Souris&lt;br&gt;&lt;/font&gt;&lt;/b&gt;                                    " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-827" y="-868.36" width="170" height="60" as="geometry" />
+        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-79" value="&lt;b&gt;&lt;font color=&quot;#9999ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;div class=&quot;name&quot;&gt;&lt;b&gt;&lt;font color=&quot;#9999ff&quot;&gt;Kensington Pro Fit Ergo&amp;nbsp; Set&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;font color=&quot;#9999ff&quot;&gt;+ Souris&lt;br&gt;&lt;/font&gt;&lt;/b&gt;                                    " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-827" y="-876" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IMbqO5Cv_9zsQHXl01Jr-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IMbqO5Cv_9zsQHXl01Jr-84" target="IMbqO5Cv_9zsQHXl01Jr-85">
           <mxGeometry relative="1" as="geometry" />
