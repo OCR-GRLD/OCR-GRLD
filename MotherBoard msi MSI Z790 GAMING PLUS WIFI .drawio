@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T00:14:53.612Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="Ukia5aN0gS4k4ErqXRzh" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-04T01:54:43.172Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="OCNjYI5kn_KliFFaUg2K" version="22.1.5" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2855" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -179,10 +179,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IMbqO5Cv_9zsQHXl01Jr-84" value="" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid2misc.fan;fanType=common;strokeColor=#1a5fb4;" vertex="1" parent="1">
-          <mxGeometry x="-1280" y="-1140" width="50" height="50" as="geometry" />
+          <mxGeometry x="-1290" y="-1160" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-85" value="VENTIRAD CPU &lt;br&gt;&lt;div class=&quot;name&quot;&gt;be quiet! Dark Rock Pro 5&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1349" y="-1087" width="160" height="40" as="geometry" />
+        <mxCell id="IMbqO5Cv_9zsQHXl01Jr-85" value="&lt;b&gt;VENTIRAD CPU &lt;br&gt;&lt;/b&gt;&lt;div class=&quot;name&quot;&gt;&lt;b&gt;be quiet! Dark Rock Pro 5&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1303.66" y="-1080" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IMbqO5Cv_9zsQHXl01Jr-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.814;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#CC0066;strokeWidth=3;" edge="1" parent="1" source="IMbqO5Cv_9zsQHXl01Jr-86" target="IMbqO5Cv_9zsQHXl01Jr-2">
           <mxGeometry relative="1" as="geometry" />
