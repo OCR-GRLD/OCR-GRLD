@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T22:09:06.977Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="tgLy05ox5pJlwjjv-7f5" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T22:10:22.426Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="3fTDaTZe4Iz11hIap2gq" version="22.1.11" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2644" dy="1820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -184,8 +184,8 @@
         <mxCell id="OjJw4_a0u6pSgcAS8aXz-48" value="SATA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1080" y="-333" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OjJw4_a0u6pSgcAS8aXz-49" value="&lt;div&gt;&lt;font color=&quot;#c061cb&quot;&gt;&lt;b&gt;SOCKET&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#c061cb&quot;&gt;&lt;b&gt;LGA&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1210" y="-785" width="70" height="40" as="geometry" />
+        <mxCell id="OjJw4_a0u6pSgcAS8aXz-49" value="&lt;div&gt;&lt;font color=&quot;#c061cb&quot;&gt;&lt;b&gt;SOCKET&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#c061cb&quot;&gt;&lt;b&gt;CPU&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#c061cb&quot;&gt;&lt;b&gt;LGA&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1210" y="-795" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OjJw4_a0u6pSgcAS8aXz-50" value="vers usb" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1573.57" y="-842" width="70" height="30" as="geometry" />
