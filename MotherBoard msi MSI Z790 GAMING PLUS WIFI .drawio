@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T22:10:22.426Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="3fTDaTZe4Iz11hIap2gq" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T22:21:17.286Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="YxBj4xxay2iW5hhfEgAt" version="22.1.11" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2644" dy="1820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2914" dy="1820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -178,11 +178,11 @@
             <mxPoint x="-1320" y="-960.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OjJw4_a0u6pSgcAS8aXz-47" value="SATA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1120" y="-333" width="50" height="30" as="geometry" />
+        <mxCell id="OjJw4_a0u6pSgcAS8aXz-47" value="&lt;b&gt;&lt;font color=&quot;#ed333b&quot;&gt;SATA&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1125" y="-333" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OjJw4_a0u6pSgcAS8aXz-48" value="SATA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1080" y="-333" width="50" height="30" as="geometry" />
+        <mxCell id="OjJw4_a0u6pSgcAS8aXz-48" value="&lt;b&gt;&lt;font color=&quot;#ed333b&quot;&gt;SATA&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1085" y="-333" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OjJw4_a0u6pSgcAS8aXz-49" value="&lt;div&gt;&lt;font color=&quot;#c061cb&quot;&gt;&lt;b&gt;SOCKET&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#c061cb&quot;&gt;&lt;b&gt;CPU&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#c061cb&quot;&gt;&lt;b&gt;LGA&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1210" y="-795" width="70" height="60" as="geometry" />
@@ -240,8 +240,11 @@
         <mxCell id="OjJw4_a0u6pSgcAS8aXz-71" value="Sys_Fan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-933.34" y="-930" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OjJw4_a0u6pSgcAS8aXz-75" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#e01b24&quot;&gt;connecteur P1 Alim&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="-1003.34" y="-812" width="150" height="30" as="geometry" />
+        <mxCell id="OjJw4_a0u6pSgcAS8aXz-75" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#e01b24&quot;&gt;connecteur P1&amp;nbsp; Alim&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-1000.47" y="-812" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OjJw4_a0u6pSgcAS8aXz-76" value="&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;Connecteur&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;P4&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1380" y="-991.25" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
