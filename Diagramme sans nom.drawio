@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T01:32:02.393Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="yhuEzsLPUAf6l65EQfOV" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-05T11:23:15.761Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="Wo35_1EVGini58w4Bjlw" version="22.1.16" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="1254" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#000000" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="6a7d8f32e03d9370-13" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.router;fontSize=14;labelBackgroundColor=none;rounded=0;fillColor=#FAD9D5;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="727.48" y="386.75" width="61.03" height="40.5" as="geometry" />
         </mxCell>
-        <mxCell id="6a7d8f32e03d9370-15" value="Server" style="verticalLabelPosition=top;aspect=fixed;html=1;verticalAlign=bottom;strokeColor=none;shape=mxgraph.citrix.cache_server;fontSize=14;labelPosition=center;align=center;labelBackgroundColor=none;rounded=0;fillColor=#FAD9D5;fontColor=#1A1A1A;" parent="1" vertex="1">
+        <mxCell id="6a7d8f32e03d9370-15" value="ServerAD" style="verticalLabelPosition=top;aspect=fixed;html=1;verticalAlign=bottom;strokeColor=none;shape=mxgraph.citrix.cache_server;fontSize=14;labelPosition=center;align=center;labelBackgroundColor=none;rounded=0;fillColor=#FAD9D5;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="397.5" y="122.5" width="71" height="97.5" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-46" style="edgeStyle=none;rounded=0;html=1;startSize=10;endSize=10;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;labelBackgroundColor=none;fontColor=default;strokeColor=#09555B;" parent="1" source="sHyUSOd2gJIIgnq2DhWJ-1" target="6a7d8f32e03d9370-13" edge="1">
