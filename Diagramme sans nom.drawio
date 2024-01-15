@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T15:30:56.759Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="LwGInINwV0ZMgqlwkT-K" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T16:19:44.136Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="ZUv8TmlLFSffzV6ba_5T" version="22.1.18" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="1231" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#000000" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry x="727.48" y="386.75" width="61.03" height="40.5" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-15" value="&lt;div&gt;ServerAD&lt;/div&gt;&lt;div&gt;192.168.0.40&lt;/div&gt;" style="verticalLabelPosition=top;aspect=fixed;html=1;verticalAlign=bottom;strokeColor=none;shape=mxgraph.citrix.cache_server;fontSize=14;labelPosition=center;align=center;labelBackgroundColor=none;rounded=0;fillColor=#FAD9D5;fontColor=#1A1A1A;" parent="1" vertex="1">
-          <mxGeometry x="397.5" y="140" width="71" height="97.5" as="geometry" />
+          <mxGeometry x="342" y="130" width="71" height="97.5" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-46" style="edgeStyle=none;rounded=0;html=1;startSize=10;endSize=10;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;labelBackgroundColor=none;fontColor=default;strokeColor=#09555B;" parent="1" source="sHyUSOd2gJIIgnq2DhWJ-1" target="6a7d8f32e03d9370-13" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -66,22 +66,22 @@
           <mxGeometry x="499" y="30" width="861" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sHyUSOd2gJIIgnq2DhWJ-1" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_128x128.png;labelBackgroundColor=none;rounded=0;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" parent="1" vertex="1">
-          <mxGeometry x="165" y="367" width="80" height="80" as="geometry" />
+          <mxGeometry x="150" y="401" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sHyUSOd2gJIIgnq2DhWJ-2" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png;labelBackgroundColor=none;rounded=0;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="701" y="500" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sHyUSOd2gJIIgnq2DhWJ-4" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.printer;labelBackgroundColor=none;rounded=0;fillColor=#FAD9D5;fontColor=#1A1A1A;" parent="1" vertex="1">
-          <mxGeometry x="170" y="125" width="70" height="70" as="geometry" />
+          <mxGeometry x="160" y="180" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sHyUSOd2gJIIgnq2DhWJ-6" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Imprimante&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;192.168.0.30&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;rounded=0;fontColor=#1A1A1A;" parent="1" vertex="1">
-          <mxGeometry x="150" y="195" width="110" height="60" as="geometry" />
+          <mxGeometry x="135" y="260" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sHyUSOd2gJIIgnq2DhWJ-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Switch WIFI&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;rounded=0;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="695" y="574" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sHyUSOd2gJIIgnq2DhWJ-8" value="&lt;div&gt;ROUTER+SSH&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;192.168.0.1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;rounded=0;fontColor=#1A1A1A;" parent="1" vertex="1">
-          <mxGeometry x="150" y="427.25" width="110" height="60" as="geometry" />
+          <mxGeometry x="140" y="481" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sHyUSOd2gJIIgnq2DhWJ-10" value="Switch" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;rounded=0;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="728" y="397.25" width="60" height="30" as="geometry" />
